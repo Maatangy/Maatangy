@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Machine Learning , MERN**
 
-- 📫 How to reach me **bruhathisathya@gmail.com**
+- 📫 How to reach me **maatangy@gmail.com**
 
 
 
