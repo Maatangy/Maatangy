@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/bruhathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maatangy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maatangy" height="30" width="40" /></a>
 
 </p>
 
@@ -63,13 +63,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruhathisp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Maatangy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maatangy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Maatangy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruhathisp&show_icons=true&locale=en&theme=tokyonight" alt="bruhathi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maatangy&show_icons=true&locale=en&theme=tokyonight" alt="maatangy" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bruhathisp&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maatangy&theme=dark&background=000000)](https://git.io/streak-stats)
