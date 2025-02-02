@@ -6,11 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **ML Optimisation with IntelOneAPI**
+- 🌱 I’m currently learning **Java Development**
 
-- 🌱 I’m currently learning **Testing and Optimisation**
-
-- 💬 Ask me about **Machine Learning , MERN**
+- 💬 Ask me about **DSA ,Java **
 
 - 📫 How to reach me **abmaatangy1@gmail.com**
 
@@ -37,28 +35,9 @@
    - Implemented a cutting-edge AI and ML model for Smart Home Energy Management System.
    - Collaborated on the development of an innovative smart home energy management app.
 
-2. **Intel Unnati Grand Challenge, IIIT Hyderabad**
-   - *Aug 2023 - Nov 2023*
-   - Addressed road accident data with ADAS alerts using Intel’s Mobility Dataset.
-   - Created interactive data visualizations and dashboards, presented at a national conference.
-   - Collaborated on building a comprehensive perception and localization model for autonomous vehicles.
 
-3. **Intel Unnati Industrial Training, IIIT Bangalore**
-   - *May 2023 - July 2023*
-   - Completed Intel's industrial training program on FashionMNIST with CNNs using Computer Vision.
-   - Optimized model architecture and presented project findings, receiving recognition for innovation.
 
-4. **Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES 2022)**
-   - *July 2022*
-   - Collaborated on a research paper and presentation at an International Conference.
-   - Achieved a 98% accuracy rate for a Robust Smart Face Recognition System.
-
-5. **Implementation of Lane Detection with FPGA and Sobel Filter, Chennai, TamilNadu**
-   - Possessed a strong understanding of DSP fundamentals and FPGA development.
-
-6. **Decentralised ERC-20 Token Exchange, Chennai, TamilNadu**
-   - Developed a Decentralised ERC-20 Token Exchange with React JS and blockchain technology.
-   - Conducted extensive testing, resulting in a 99.9% success rate for all transactions.
+   
 
 
 
